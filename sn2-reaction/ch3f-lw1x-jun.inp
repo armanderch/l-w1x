@@ -1,0 +1,12 @@
+%Maxcore 1000
+%Pal nprocs 6 End
+
+* xyz 0 1
+F        0.000000    0.000000    0.750386 
+C        0.000000    0.000000   -0.629363 
+H       -1.026909    0.000000   -0.992430 
+H        0.513454    0.889329   -0.992430 
+H        0.513454   -0.889329   -0.992430 
+*
+
+%Compound "/opt/orca_5_0_1_linux_x86-64_openmpi411/ORCACompoundMethods/lw1x-jun.cmp"
