@@ -1,3 +1,9 @@
+----- Background -----
+For more information on the L-W1X methods, see:
+Assessment of DLPNO-CCSD(T)-F12 and its use for the formulation of the low-cost and reliable L-W1X composite method.
+Chan, B.; Karton, A. J. Comput. Chem. 2022, 43, 1394.
+https://doi.org/10.1002/jcc.26892
+
 ----- General -----
 A set of ".cmp" files is included in the "cmp-files" folder. Put them in a convenient location on your system. In your ORCA input, include the full path to the chosen .cmp file. The L-W1X energy is printed at the end of the output under the COMPOUND BLOCK.
 
