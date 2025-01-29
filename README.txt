@@ -1,3 +1,6 @@
+----- Update -----
+The original L-W1X protocols were developed with ORCA 5. In ORCA 6, the variables set in a ".cmp" file were no longer printed at the end of the output file. In response, minor revisions of the original .cmp files are now included in the new "cmp-files-orca6" folder.
+
 ----- Background -----
 For more information on the L-W1X methods, see:
 Assessment of DLPNO-CCSD(T)-F12 and its use for the formulation of the low-cost and reliable L-W1X composite method.
